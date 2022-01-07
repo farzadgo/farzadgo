@@ -4,7 +4,7 @@ Here is the list of web development and design projects I’ve worked on..
 
 | Year | Title | Built with | Link |
 |:----:|:----- |:---------- |:----:|
-| 2021 | Website v2 | Gatsby · React | [⤤](https://fagose.me/) |
+| 2021 | Website v2 | Gatsby · React | [⤤](https://fagosemi.xyz/) |
 | 2021 | Adrift App v2 | React · CSS · IndexedDB · PWA | [⤤](https://adrift.city/) |
 | 2020 | Carla's Portfolio | HTML · CSS · JS · SVG Animation | [<>](https://github.com/farzadgo/carla-anacker) |
 | 2020 | Adrift App v1 | VanillaJS · CSS · Media Recording API | [⤤](https://farzadgo.github.io/adrift-js) |
