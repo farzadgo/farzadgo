@@ -4,14 +4,14 @@ Here is the list of web development and design (HTML & CSS ...) projects I’ve 
 
 | Year | Title | Stack | Link |
 |:----:|:----- |:---------- |:----:|
-| 2022 | RESTORE_ Website | Next.js · React · Three.js | [↗](https://restore-bremen.space/) |
+| 2022 | RESTORE_ Website | Next.js · React · Three.js | [⤤](https://restore-bremen.space/) |
 | 2021 | Demo Transport App | React · Local Storage | [<>](https://github.com/farzadgo/transport-app) |
-| 2021 | Website v2 | Gatsby · React · Three.js . GSAP · PWA | [↗](https://fagosemi.xyz/) |
-| 2021 | Adrift app v2 | React · IndexedDB · PWA | [↗](https://adrift.city/) |
+| 2021 | Website v2 | Gatsby · React · Three.js . GSAP · PWA | [⤤](https://fagosemi.xyz/) |
+| 2021 | Adrift app v2 | React · IndexedDB · PWA | [⤤](https://adrift.city/) |
 | 2020 | Carla's portfolio | JS · SVG Animation | [<>](https://github.com/farzadgo/carla-anacker) |
-| 2020 | Adrift app v1 | VanillaJS · Media Recording API | [↗](https://farzadgo.github.io/adrift-js) |
+| 2020 | Adrift app v1 | VanillaJS · Media Recording API | [⤤](https://farzadgo.github.io/adrift-js) |
 | 2019 | My p5 sketches | p5.js | [<>](https://github.com/farzadgo/p5js-works) |
-| 2019 | Website v1 | Bootstrap · p5.js | [↗](https://farzadgo.github.io/v1) |
+| 2019 | Website v1 | Bootstrap · p5.js | [⤤](https://farzadgo.github.io/v1) |
 
 
 <!--
