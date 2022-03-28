@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is the list of web development and design (HTML & CSS ...) projects I’ve worked on..
+Here is the list of web development [+ design] projects I’ve worked on..
 
 | Year | Title | Stack | Link |
 |:----:|:----- |:---------- |:----:|
