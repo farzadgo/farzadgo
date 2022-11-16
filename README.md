@@ -4,7 +4,7 @@ Here is the list of web development [+ design] projects I’ve worked on..
 
 | Year | Title | Stack | Link |
 |:----:|:----- |:---------- |:----:|
-| 2022 | RESTORE_ Website | Next.js · React · Three.js | [⤤](https://restore-bremen.space/) |
+| 2022 | RESTORE_ Website | Next.js · React · Three.js · Mapbox GL | [⤤](https://restore-bremen.space/) |
 | 2021 | Demo Transport App | React · Local Storage | [<>](https://github.com/farzadgo/transport-app) |
 | 2021 | Website v2 | Gatsby · React · Three.js . GSAP · PWA | [⤤](https://fagosemi.xyz/) |
 | 2021 | Adrift app v2 | React · IndexedDB · PWA | [⤤](https://adrift.city/) |
