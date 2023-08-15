@@ -1,8 +1,6 @@
-### Hi there 👋
+Here is the list of my projects (web design and pragramming)
 
-Here is the list of web development [+ design] projects I’ve worked on..
-
-| year | title | stack | links |  |
+| year | title | stack |  |  |
 |:----:|:----- |:---------- |:----:|:----:|
 | 2023 | notyet.quest | Next.js | [live](https://notyet.quest/) | [code](https://github.com/farzadgo/notyet.quest) |
 | 2023 | Gabi's portfolio | Next.js · SEO · PDFViewer | [live](https://gvaldespino.xyz/) | [code](https://github.com/farzadgo/gabi-portfolio) |
