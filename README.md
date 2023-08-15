@@ -3,29 +3,14 @@
 Here is the list of web development [+ design] projects I’ve worked on..
 
 | Year | Title | Stack | Link |
-|:----:|:----- |:---------- |:----:|
-| 2023 | Endless Twist | Typescript · Three.js · Vite | [⤤](https://endlesstwist.xyz/) |
-| 2022 | RESTORE_ Website | Next.js · React · Three.js · Mapbox GL | [⤤](https://restore-bremen.space/) |
-| 2021 | Demo Transport App | React · Local Storage | [<>](https://github.com/farzadgo/transport-app) |
-| 2021 | Website v2 | Gatsby · React · Three.js . GSAP · PWA | [⤤](https://fagosemi.xyz/) |
-| 2021 | Adrift app v2 | React · IndexedDB · PWA | [⤤](https://adrift.city/) |
-| 2020 | Carla's portfolio | JS · SVG Animation | [<>](https://github.com/farzadgo/carla-anacker) |
-| 2020 | Adrift app v1 | VanillaJS · Media Recording API | [⤤](https://farzadgo.github.io/adrift-js) |
-| 2019 | My p5 sketches | p5.js | [<>](https://github.com/farzadgo/p5js-works) |
-| 2019 | Website v1 | Bootstrap · p5.js | [⤤](https://farzadgo.github.io/v1) |
-
-
-<!--
-**farzadgo/farzadgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|:----:|:----- |:---------- |:----:|:----:|
+| 2023 | notyet.quest | Next.js | [live](https://notyet.quest/) | [code](https://github.com/farzadgo/notyet.quest) |
+| 2023 | Gabi's portfolio | Next.js · SEO · PDFViewer | [live](https://gvaldespino.xyz/) | [code](https://github.com/farzadgo/gabi-portfolio) |
+| 2023 | Endless Twist | Three.js · Typescript · Vite | [live](https://endlesstwist.xyz/) | [code](https://github.com/farzadgo/endless-twist) |
+| 2022 | RESTORE_ | Next.js · Three.js · Mapbox GL | [live](https://restore-bremen.space/) | [code](https://github.com/farzadgo/RESTORE_) |
+| 2021 | Transport app (demo) | React (SPA) · Local Storage | [live](https://vbb-transport-demo.netlify.app/) | [code](https://github.com/farzadgo/transport-app) |
+| 2021 | Website v2 | Gatsby · React · Three.js . GSAP | [live](https://fagosemi.xyz/) | [code](https://github.com/farzadgo/v2) |
+| 2021 | Adrift app (v2) | React (SPA) · IndexedDB · PWA | [live](https://adrift.city/) | [code](https://github.com/farzadgo/adrift-react) |
+| 2020 | Carla's portfolio | JavaScript · SVG Animation | [live](https://farzadgo.github.io/carla-anacker/) | [code](https://github.com/farzadgo/carla-anacker) |
+| 2020 | Adrift app (v1) | VanillaJS (SPA) · Media Recording API | [live](https://farzadgo.github.io/adrift-js) | [code](https://github.com/farzadgo/adrift-js) |
+| 2019 | Website v1 | Bootstrap · JavaScript · p5.js | [live](https://farzadgo.github.io/v1) | [code](https://github.com/farzadgo/v1) |
