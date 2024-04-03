@@ -2,6 +2,7 @@ Here is the list of my projects (web design and pragramming)
 
 | year | title | stack |  |  |
 |:----:|:----- |:---------- |:----:|:----:|
+| 2024 | farzadgo WebDev PortfolioCV | Svelte · TypeScript · Tailwind CSS | [live](https://fago.vercel.app) | [code](https://github.com/farzadgo/web-dev) |
 | 2023 | Netzwerk Zwischennutzung website | Svelte · TypeScript · Tailwind CSS · GraphQL | [live](https://netzwerkzwischennutzung.de) | [code](https://github.com/GuidaGG/NZN-frontend) |
 | 2023 | Endless Twist Open Access Publication | TypeScript · CSS · Vite | [live](https://endlesstwist.xyz/publication) | [code](https://github.com/farzadgo/endless-twist/tree/main/publication) |
 | 2023 | "moyo" website | Next.js | [live](https://moyo-bremen.space/) | [code](https://github.com/farzadgo/moyo-bremen) |
